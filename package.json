@@ -1,0 +1,19 @@
+{
+  "name": "backend-p7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpmazel/oc-dw-projet7-groupomania-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpmazel/oc-dw-projet7-groupomania-backend/issues"
+  },
+  "homepage": "https://github.com/jpmazel/oc-dw-projet7-groupomania-backend#readme"
+}
